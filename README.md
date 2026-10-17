@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Aadhya Sharma 👋
 
-<!--
-**aadhyasharma77/aadhyasharma77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year B.E. Electronics, Instrumentation & Control Engineering student at Thapar Institute of Engineering & Technology.
 
-Here are some ideas to get you started:
+💻 Exploring programming, software development, and electronics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+
+- C Programming
+- Git and GitHub
+- Problem-solving
+- Electronics and Embedded Systems
+
+🛠️ Skills
+
+- Languages: C (beginner)
+- Tools: GitHub, Tinkercad
+- Currently building my programming fundamentals
+
+🚀 Projects
+
+- Bank Safe Guessing Game — A number-guessing game built using C.
+
+- LED Blinking Simulation — Exploring basic electronics using Tinkercad.
+
+🎯 My Goals
+
+- Build practical projects
+- Participate in hackathons
+- Explore software development and embedded systems
+
+---
+
+Learning, building, and improving one step at a time.
